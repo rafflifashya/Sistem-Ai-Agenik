@@ -1,0 +1,1 @@
+buatkan Program sederhana berbasis Pemrograman Berorientasi Objek (OOP) yang menggambarkan sistem AI Agenik,dan tambahkan UML diagram
